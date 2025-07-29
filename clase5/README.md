@@ -1,9 +1,14 @@
 # Clase 5
 
-## [Teoría](teoria/clase5.pdf)
+## [Teoría](teoria/stream_processing.pdf)
 
-* Despliegue de modelos
-* Estrategias de despliegue
-* Sirviendo modelos
-* Propiedades del entorno de ejecución de un modelo
-* Predicción en lotes
+* Introducción a streaming
+* Brokers
+* Kafka
+* Procesamiento en tiempo real
+* Windowing
+
+## [Teoría](teoria/imgs_stream.pdf)
+* User cases
+* Batch vs Streaming
+* Tipo de procesos Streaming

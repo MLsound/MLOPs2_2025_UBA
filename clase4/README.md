@@ -1,8 +1,18 @@
-# Clase 4
+# Clase 1
 
-## [Teoría](teoria/clase4.pdf)
+## [Teoría RPC](teoria/RPC-gRPC.pdf)
 
-* Administración de recursos
-* Orquestadores y sincronizadores
-* Gestión del flujo de trabajo de ciencia de datos
-* Apache Airflow
+* Introducción a RPC
+* Estructura RPC
+* Interface Definition Language
+* Stubs
+* Ejecución
+
+## [Teoría gRPC](teoria/gRPC.pdf)
+* Introducción a gRPC
+* protobuffers
+* Buenas prácticas de programación
+
+## [Práctica gRPC vs GraphQL vs REST](práctica/gRPC_GraphQL_REST.ipynb)
+* Creación de APIs usando gRPC, GraphQL y REST
+* Ejecución y Evaluación
